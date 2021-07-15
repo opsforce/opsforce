@@ -2,7 +2,7 @@
 
 #### Gald to see you here!
 
-I am DevOps / DevSecOps Engineer(SRE) experienced in Services Reliability Engineering and Software Development. Passionate about Systems Reliability, Infrastructure automation, DevOps and Scalable architectures. Always have a keen interestautomating boring stuff.
+I am DevOps/DevSecOps Engineer(SRE) Leader/Header experienced in Services Reliability Engineering and Software Development. Passionate about Systems Reliability, Infrastructure automation, DevOps and Scalable architectures. Always have a keen interestautomating boring stuff.
 
 - 🔭 I’m currently working on ...
 
