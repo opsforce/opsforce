@@ -11,9 +11,9 @@ I am DevOps/DevSecOps Engineer(SRE) Leader/Header experienced in Services Reliab
   - Other Tools and Platforms (Kubernetes, Shell, Python, Golang, ElasticSearch(ELK), Mysql, MongoDB, Redis, Kafka, Microservices, etc.)
   - ...
 
-- 📫 How to reach me: ...
+- 📫 How to reach me, *Maybe slower to reply/respond*: 😄
   
-  ✉️ [Gmail](minng.jao@gmail.com) *Maybe slower to reply/respond* 😄
+  ✉️ [Gmail](mailto:minng.jao@gmail.com)
 
 <!--
 **opsforce/opsforce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
